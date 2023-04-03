@@ -1,0 +1,21 @@
+*SOFTWARE DESIGN AND TOTAL EXPERIENCE*
+
+
+
+CHALLENGE (detalhado com o Scrum Master da turma).
+Previsão das 4 entregas da disciplina de Design de
+software e TX:
+
+Análise do cenário de negócio e sistemas atuais da empresa parceira, 
+com elaboração de documentos de visão do escopo do projeto;
+
+Análise de modelos de gerenciamento do ciclo de vida e da produção de software 
+na empresa parceira, com declaração de um plano preliminar de projeto challenge
+
+Prototipação funcional da aplicação, acompanhada da documenta UML de Casos de Uso
+
+Modelagem completa do software em UML
+
+--------------------------------------------------------------------------------------
+*RESPONSIBLE WEB DEVELOPMENT*
+
